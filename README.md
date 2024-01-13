@@ -22,4 +22,4 @@ Black tape reversed the turning direction, telling the robot when it had to spin
 ## Building
 The robot design was pretty simple at first. I put together a chassis with motors and mounted the electronics onto the back. However, the weight of the motors and the electronics imbalanced the robot and caused it to tip over at the slightest encouragement. To fix this, I added two metal beams to hold the front motor up, which would lower the impact of the weight imbalance. While this would not increase gravity to any noticeable extent, it would increase the amount of work done to imbalance the robot, making it harder for it to tip over. This is because the energy to raise an object against gravity is increased by the distance over which the energy is applied. This successfully corrected the weight imbalance. 
 
-[![Line Follower Video](https://img.youtube.com/shorts/DjIV31LQJm0.jpg)](https://www.youtube.com/shorts/DjIV31LQJm0)
+[![Line Follower Video](image.png)](https://www.youtube.com/shorts/DjIV31LQJm0)
